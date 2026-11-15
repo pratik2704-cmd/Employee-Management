@@ -224,9 +224,9 @@ Through this project I gained practical experience in:
 
 **Yogesh Kachare**
 
-📧 Email: yogeshkachare43@gmail.com
+📧 Email: pratikkumbhar2704@gmail.com
 
-📱 Mobile: +91 9309816198
+📱 Mobile: +91 9665062944
 
 💼 Java Full Stack Developer
 
